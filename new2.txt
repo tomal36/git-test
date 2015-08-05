@@ -4,3 +4,4 @@ again change git
 accidental task
 upload to webserver
 
+git pull origin master
